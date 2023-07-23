@@ -1,11 +1,11 @@
 {
   "results": [
     {
-      "gender": "female",
+      "gender": "male",
       "name": {
-        "title": "Ms",
-        "first": "Afet",
-        "last": "Sarıoğlu"
+        "title": "Mr",
+        "first": "Tuan",
+        "last": "Ngo"
       },
       "location": {
         "street": {
@@ -43,25 +43,25 @@
         "date": "2019-12-04T19:12:15.941Z",
         "age": 3
       },
-      "phone": "(228)-432-0160",
+      "phone": "0834072431",
       "cell": "(257)-726-4754",
       "id": {
         "name": "",
         "value": null
       },
       "picture": {
-        "large": "https://randomuser.me/api/portraits/women/71.jpg",
-        "medium": "https://randomuser.me/api/portraits/med/women/71.jpg",
-        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/71.jpg"
+        "large": "https://hocdohoacaptoc.com/wp-content/uploads/2022/02/avata-dep-nam-2.jpg",
+        "medium": "https://hocdohoacaptoc.com/wp-content/uploads/2022/02/avata-dep-nam-2.jpg",
+        "thumbnail": "https://hocdohoacaptoc.com/wp-content/uploads/2022/02/avata-dep-nam-2.jpg"
       },
       "nat": "TR"
     },
     {
-      "gender": "male",
+      "gender": "female",
       "name": {
-        "title": "Mr",
-        "first": "Ryder",
-        "last": "Hughes"
+        "title": "Ms",
+        "first": "Thu",
+        "last": "Pham"
       },
       "location": {
         "street": {
@@ -106,9 +106,9 @@
         "value": null
       },
       "picture": {
-        "large": "https://randomuser.me/api/portraits/men/97.jpg",
-        "medium": "https://randomuser.me/api/portraits/med/men/97.jpg",
-        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/97.jpg"
+        "large": "https://img.hoidap247.com/picture/question/20200722/large_1595385718146.jpg",
+        "medium": "https://img.hoidap247.com/picture/question/20200722/large_1595385718146.jpg",
+        "thumbnail": "https://img.hoidap247.com/picture/question/20200722/large_1595385718146.jpg"
       },
       "nat": "NZ"
     },
